@@ -2208,21 +2208,41 @@
                                                   <app>
                                                 <lem>heavily</lem>
                                                 <rdg wit="#F1" type="variation-substance">heauenly</rdg>
-                                              </app> with my disposition that this goodly frame, the earth, seems to me a sterile promontory. This most excellent canopy the air, look you, this brave o'erhanging firmament, this majestical roof fretted with golden fire, why, it appeareth 
+                                              </app> with my disposition that this goodly frame, the earth, seems to me a sterile promontory. This most excellent canopy the air, look you, this brave o'erhanging
+                                                <app>
+                                                    <lem> firmament</lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app>
+                                                  , this majestical roof fretted with golden fire, why, it
                                                   <app>
-                                                    <lem>nothing</lem>
-                                                    <rdg wit="#F1" type="variation-substance">no other rhing</rdg>
+                                                    <lem>appeareth nothing</lem>
+                                                    <rdg wit="#F1" type="variation-substance">appeares no other rhing</rdg>
                                                   </app>
                                                   to me 
                                                   <app>
                                                     <lem>but</lem>
                                                     <rdg wit="#F1" type="variation-substance">than</rdg>
                                                   </app>
-                                                  a foul and pestilent congregation of vapors. What piece of work is a man! How noble in reason, how infinite in faculties, in form and moving, how express and admirable in action, how like an angel in apprehension, how like a god; the beauty of the world; the paragon of animals. And yet to me what is this quintessence of dust? Man delights not me,
+                                                  a foul and pestilent congregation of vapors. What 
+                                                  <app>
+                                                    <lem n="What" />
+                                                    <rdg wit="#F1" type="variation-present">a</rdg>
+                                                  </app>
+                                                  piece of work is a man! How noble in reason, how infinite in 
+                                                  <app>
+                                                    <lem>faculties,</lem>
+                                                    <rdg wit="#F1" type="variation-substance">faculty?</rdg>
+                                                  </app>
+                                                  in form and moving, how express and admirable in action, how like an angel in apprehension, how like a god; the beauty of the world; the paragon of animals. And yet to me what is this quintessence of dust? Man delights not me,
                                                   <app>
                                                     <lem n="me," />
                                                     <rdg wit="#F1" type="variation-present">no,</rdg>
-                                                  </app> nor women neither, though by your smiling you seem to say so.</p>
+                                                  </app> nor 
+                                                  <app>
+                                                    <lem>women</lem>
+                                                    <rdg wit="#F1" type="variation-substance">woman</rdg>
+                                                  </app>
+                                                   neither, though by your smiling you seem to say so.</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="Ht3SmlRG8P_spa" corresp="#Ht3SmlRG8P_eng">
@@ -2246,7 +2266,12 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="MpHtfuf1df_eng" corresp="#MpHtfuf1df_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>Why did ye laugh, then,
+                                                <p>Why did
+                                                  <app>
+                                                    <lem>ye</lem>
+                                                    <rdg wit="#F1" type="variation-substance">you</rdg>
+                                                  </app>
+                                                   laugh, then,
                                                   <app>
                                                     <lem> then,</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
@@ -2297,7 +2322,12 @@
                                               
                                               <sp who="#rosencrantz" xml:lang="eng" xml:id="OK7m56GbDF_eng" corresp="#OK7m56GbDF_spa">
                                                 <speaker>Rosencrantz</speaker>
-                                                <p>Even those you were wont to take such delight in, the tragedians of the city.</p>
+                                                <p>Even those you were wont to take
+                                                  <app>
+                                                    <lem> such</lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app>
+                                                   delight in, the tragedians of the city.</p>
                                               </sp>
                                               
                                               <sp who="#rosencrantz" xml:lang="spa" xml:id="OK7m56GbDF_spa" corresp="#OK7m56GbDF_eng">
@@ -2309,7 +2339,12 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="EOlZkwnW9F_eng" corresp="#EOlZkwnW9F_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>How chances it they travel? Their residence both in reputation and profit was better both ways.</p>
+                                                <p>How chances it they 
+                                                  <app>
+                                                    <lem>travel</lem>
+                                                    <rdg wit="#F1" type="variation-substance">travaile</rdg>
+                                                  </app>
+                                                  ? Their residence both in reputation and profit was better both ways.</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="EOlZkwnW9F_spa" corresp="#EOlZkwnW9F_eng">
@@ -2345,7 +2380,7 @@
                                               
                                               <sp who="#rosencrantz" xml:lang="eng" xml:id="fi57iJDRFX_eng" corresp="#fi57iJDRFX_spa">
                                                 <speaker>Rosencrantz</speaker>
-                                                <p>No, indeed, are they 
+                                                <p>No, indeed,
                                                   <app>
                                                     <lem>are they</lem>
                                                     <rdg wit="#F1" type="variation-substance">they are</rdg>
@@ -2417,12 +2452,21 @@
                                                     <lem>my</lem>
                                                     <rdg wit="#F1" type="variation-substance">mine</rdg>
                                                   </app>
-                                                  uncle is King of Denmark, and those that would make mouths at him while my father lived give twenty, forty, 
+                                                  uncle is King of Denmark, and those that would make 
+                                                  <app>
+                                                    <lem>mouths</lem>
+                                                    <rdg wit="#F1" type="variation-substance">mowes</rdg>
+                                                  </app> 
+                                                  at him while my father lived give twenty, forty, 
                                                   <app>
                                                     <lem> fifty,</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
-                                                  </app> 
-                                                  a hundred ducats apiece for his picture in little. 
+                                                  </app>
+                                                  <app>
+                                                    <lem>a</lem>
+                                                    <rdg wit="#F1" type="variation-substance">an</rdg>
+                                                  </app>
+                                                  hundred ducats apiece for his picture in little. 
                                                   <app>
                                                     <lem> 'Sblood,</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
@@ -2462,8 +2506,21 @@
                                                     <lem> then.</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
                                                   </app>
-                                                  Th'appurtenance of welcome is fashion and ceremony. Let me comply with you in this garb, lest my extent to the players, 
-                                                  which, I tell you, must show fairly outwards, should more appear like entertainment than yours. 
+                                                  <app>
+                                                    <lem>Th'appurtenance</lem>
+                                                    <rdg wit="#F1" type="variation-substance">The appurtenance</rdg>
+                                                  </app> of welcome is fashion and ceremony. Let me comply with you in
+                                                  <app>
+                                                    <lem>this</lem>
+                                                    <rdg wit="#F1" type="variation-substance">the</rdg>
+                                                  </app>
+                                                   garb, lest my extent to the players, 
+                                                  which, I tell you, must show fairly 
+                                                  <app>
+                                                    <lem>outwards</lem>
+                                                    <rdg wit="#F1" type="variation-substance">outward</rdg>
+                                                  </app>
+                                                  , should more appear like entertainment than yours. 
                                                   You are welcome. But my uncle-father and aunt-mother are deceived.</p>
                                               </sp>
                                               
@@ -2514,7 +2571,12 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="i9lv2lwJUC_eng" corresp="#i9lv2lwJUC_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>Hark you, Guildenstern, and you too, at each ear a hearer: that great baby you see there is not yet out of his swaddling clouts.</p>
+                                                <p>Hark you, Guildenstern, and you too, at each ear a hearer: that great baby you see there is not yet out of his 
+                                                  <app>
+                                                    <lem>swaddling</lem>
+                                                    <rdg wit="#F1" type="variation-substance">swathing</rdg>
+                                                  </app>
+                                                   clouts.</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="i9lv2lwJUC_spa" corresp="#i9lv2lwJUC_eng">
@@ -2526,7 +2588,12 @@
                                               
                                               <sp who="#rosencrantz" xml:lang="eng" xml:id="oeX8adDzvj_eng" corresp="#oeX8adDzvj_spa">
                                                 <speaker>Rosencrantz</speaker>
-                                                <p>Happily he is the second time come to them, for they say an old man is twice a child.</p>
+                                                <p>Happily 
+                                                  <app>
+                                                    <lem>he is</lem>
+                                                    <rdg wit="#F1" type="variation-substance">he's</rdg>
+                                                  </app>
+                                                  the second time come to them, for they say an old man is twice a child.</p>
                                               </sp>
                                               
                                               <sp who="#rosencrantz" xml:lang="spa" xml:id="oeX8adDzvj_spa" corresp="#oeX8adDzvj_eng">
@@ -2538,7 +2605,12 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="eih7vMsin6_eng" corresp="#eih7vMsin6_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>I will prophesy he comes to tell me of the players. Mark it.-- You say right, sir,  
+                                                <p>I will prophesy
+                                                  <app>
+                                                    <lem>prophesy</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Prophesie</rdg>
+                                                  </app> 
+                                                  he comes to tell me of the players. Mark it.-- You say right, sir,  
                                                   <app>
                                                     <lem>o'Monday</lem>
                                                     <rdg wit="#F1" type="variation-substance">for a monday</rdg>
@@ -2628,7 +2700,7 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="jhNhxU9vaw_eng" corresp="#jhNhxU9vaw_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>Then came 
+                                                <p>Then  
                                                   <app>
                                                     <lem>came</lem>
                                                     <rdg wit="#F1" type="variation-substance">can</rdg>
@@ -2662,7 +2734,12 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="JUhFFPpUMd_eng" corresp="#JUhFFPpUMd_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>O Jephthah, judge of Israel, what a treasure hadst thou?</p>
+                                                <p>O 
+                                                  <app>
+                                                    <lem>Jephthah</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Jephta</rdg>
+                                                  </app>
+                                                  , judge of Israel, what a treasure hadst thou?</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="JUhFFPpUMd_spa" corresp="#JUhFFPpUMd_eng">
@@ -2768,7 +2845,16 @@
                                                 <l>and then you know,</l>
                                                 <l>It came to pass,</l>
                                                 <l>As most like it was.</l>
-                                                <l>The first row of the pious chanson will show you more, for look where my abridgment comes.</l>
+                                                <l>The first row of the 
+                                                  <app>
+                                                    <lem>pious chanson</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Pons Chanson</rdg>
+                                                  </app>
+                                                  will show you more, for look where my 
+                                                  <app>
+                                                    <lem>abridgment comes.</lem>
+                                                    <rdg wit="#F1" type="variation-substance">abridgements come.</rdg>
+                                                  </app></l>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="zj4sm9ilDe_spa" corresp="#zj4sm9ilDe_eng">
@@ -2800,7 +2886,11 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="ZyXQKUtLRg_eng" corresp="#ZyXQKUtLRg_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>You are welcome, masters, welcome all.--I am glad to see thee well. Welcome, good friends.--Oh, 
+                                                <p>You are 
+                                                  <app>
+                                                    <lem>You are</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Y'are</rdg>
+                                                  </app>welcome, masters, welcome all.--I am glad to see thee well. Welcome, good friends.--Oh, 
                                                   <app>
                                                     <lem n="oh," />
                                                     <rdg wit="#F1" type="variation-present">my</rdg>
@@ -2814,7 +2904,12 @@
                                                     <lem>valanced</lem>
                                                     <rdg wit="#F1" type="variation-substance">valiant</rdg>
                                                   </app>
-                                                  since I saw thee last. Com'st thou to beard me in Denmark?-- What, my young lady and mistress! By Lady, your ladyship is nearer
+                                                  since I saw thee last. Com'st thou to beard me in Denmark?-- What, my young lady and mistress! 
+                                                  <app>
+                                                    <lem>By lady</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Byrlady</rdg>
+                                                  </app>
+                                                  , your ladyship is nearer
                                                   <app>
                                                     <lem> to</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
@@ -2830,7 +2925,12 @@
                                               
                                               
                                               <sp who="#firstplayer" xml:lang="eng" xml:id="M7i3pUM2jR_eng" corresp="#M7i3pUM2jR_spa">
-                                                <speaker>Player</speaker>
+                                                <speaker>
+                                                  <app>
+                                                    <lem>Player</lem>
+                                                    <rdg wit="#F1" type="variation-substance">1. Play.</rdg>
+                                                  </app>
+                                                </speaker>
                                                 <l>What speech, my 
                                                   <app>
                                                     <lem> good</lem>
@@ -2847,29 +2947,74 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="PKmAotLEir_eng" corresp="#PKmAotLEir_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>I heard thee speak me a speech once, but it was never acted, or if it was, not above once; for the play, I remember, pleased not the million, 'twas caviary to the general. But it was, as I received it, and others whose judgments in such matters cried in the top of mine, an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember one said there were no sallets in the lines, to make the matter savory, 
-                                                  nor no matter in the phrase that might indict the author of affection, but called it an honest method, 
+                                                <p>I heard thee speak me a speech once, but it was never acted, or if it was, not above once; for the play, I remember, pleased not the million, 'twas caviary to the general. But it was, as I received it, and others whose 
+                                                  <app>
+                                                    <lem>judgements</lem>
+                                                    <rdg wit="#F1" type="variation-substance">judgement</rdg>
+                                                  </app>
+                                                  in such matters cried in the top of mine, an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember one said there 
+                                                  <app>
+                                                    <lem>were</lem>
+                                                    <rdg wit="#F1" type="variation-substance">was</rdg>
+                                                  </app>
+                                                  no sallets in the lines, to make the matter savory, 
+                                                  nor no matter in the phrase that might indict the author of
+                                                  <app>
+                                                    <lem>affection</lem>
+                                                    <rdg wit="#F1" type="variation-substance">affectation</rdg>
+                                                  </app>
+                                                  , but called it an honest method, 
                                                   <app>
                                                     <lem> as wholesome as sweet, and by very much more handsome than fine.</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
                                                   </app>
-                                                   One speech in't I chiefly loved: 'twas Aeneas' 
+                                                   One 
+                                                   <app>
+                                                    <lem n="me," />
+                                                    <rdg wit="#F1" type="variation-present">cheefe</rdg>
+                                                  </app>
+                                                  speech 
+                                                  <app>
+                                                    <lem>in't</lem>
+                                                    <rdg wit="#F1" type="variation-substance">in it</rdg>
+                                                  </app>
+                                                   I chiefly loved: 'twas Aeneas' 
                                                    <app>
                                                     <lem>talk</lem>
                                                     <rdg wit="#F1" type="variation-substance">tale</rdg>
                                                   </app>
-                                                  to Dido, and thereabout of it especially when he speaks of Priam's slaughter. If it live in your memory, begin at this line--let me see, let me see--</p>
+                                                  to Dido, and thereabout of it especially
+                                                  <app>
+                                                    <lem>when</lem>
+                                                    <rdg wit="#F1" type="variation-substance">where</rdg>
+                                                  </app>
+                                                   he speaks of Priam's slaughter. If it live in your memory, begin at this line--let me see, let me see--</p>
                                                 <l>The rugged Pyrrhus, like th'Hyrcanian beast--</l>
-                                                <l>'Tis not so, it begins with Pyrrhus.</l>
+                                                <l> 
+                                                  <app>
+                                                    <lem>'Tis</lem>
+                                                    <rdg wit="#F1" type="variation-substance">It is</rdg>
+                                                  </app>
+                                                  not so, it begins with Pyrrhus.</l>
                                                 <l>The rugged Pyrrhus, he whose sable arms,</l>
                                                 <l>Black as his purpose, did the night resemble</l>
                                                 <l>When he lay couchèd in th'ominous horse,</l>
                                                 <l>Hath now this dread and black complexion smeared</l>
                                                 <l>With heraldry more dismal head to foot;</l>
-                                                <l>Now is he total gules, horridly tricked</l>
+                                                <l>Now is he  
+                                                  <app>
+                                                    <lem>total gules</lem>
+                                                    <rdg wit="#F1" type="variation-substance">to take Geulles</rdg>
+                                                  </app>
+                                                  , horridly tricked</l>
                                                 <l>With blood of fathers, mothers, daughters, sons,</l>
                                                 <l>Baked and empasted with the parching streets</l>
-                                                <l>That lend a tyrannous and a damnèd light</l>
+                                                <l>That lend a tyrannous and
+                                                  <app>
+                                                    <lem> a </lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app>
+                                                  damnèd light</l>
                                                 <l>To their  
                                                   <app>
                                                     <lem>lord's murder.</lem>
@@ -2926,17 +3071,36 @@
                                                 <l>Anon he finds him,</l>
                                                 <l>Striking too short at Greeks. His anticke sword,</l>
                                                 <l>Rebellious to his arm, lies where it falls,</l>
-                                                <l>Repugnant to command. Unequal matched,</l>
+                                                <l>Repugnant to command. Unequal
+                                                  <app>
+                                                    <lem>matched</lem>
+                                                    <rdg wit="#F1" type="variation-substance">match</rdg>
+                                                  </app>,</l>
                                                 <l>Pyrrhus at Priam drives, in rage strikes wide,</l>
                                                 <l>But with the whiff and wind of his fell sword</l>
                                                 <l>Th'unnervèd father falls. <supplied>Then senseless Ilium,</supplied></l>
-                                                <l>Seeming to feel this blow, with flaming top</l>
+                                                <l>Seeming to feel 
+                                                  <app>
+                                                    <lem>this</lem>
+                                                    <rdg wit="#F1" type="variation-substance">his</rdg>
+                                                  </app>
+                                                   blow, with flaming top</l>
                                                 <l>Stoops to his base, and with a hideous crash</l>
                                                 <l>Takes prisoner Pyrrhus' ear; for lo! his sword,</l>
                                                 <l>Which was declining on the milky head</l>
-                                                <l>Of reverent Priam, seemed i'th' air to stick.</l>
+                                                <l>Of 
+                                                  <app>
+                                                    <lem>reverent</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Reverend</rdg>
+                                                  </app> 
+                                                  Priam, seemed i'th' air to stick.</l>
                                                 <l>So as a painted tyrant Pyrrhus stood,</l>
-                                                <l>Like a neutral to his will and matter,</l>
+                                                <l> 
+                                                  <app>
+                                                    <lem>Like</lem>
+                                                    <rdg wit="#F1" type="variation-substance">And like</rdg>
+                                                  </app>
+                                                  a neutral to his will and matter,</l>
                                                 <l>Did nothing.</l>
                                                 <l>But as we often see against some storm</l>
                                                 <l>A silence in the heavens, the rack stand still,</l>
@@ -2945,12 +3109,22 @@
                                                 <l>Doth rend the region, so, after Pyrrhus' pause,</l>
                                                 <l>A rousèd vengeance sets him new a-work,</l>
                                                 <l>And never did the Cyclops' hammers fall</l>
-                                                <l>On Mars's armor forged for proof eterne</l>
+                                                <l>On  
+                                                  <app>
+                                                    <lem>Mars's armor</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Mars his Armours</rdg>
+                                                  </app>
+                                                   forged for proof eterne</l>
                                                 <l>With less remorse than Pyrrhus' bleeding sword</l>
                                                 <l>Now falls on Priam.</l>
                                                 <l>Out, out, thou strumpet Fortune! All you gods</l>
                                                 <l>In general synod take away her power,</l>
-                                                <l>Break all the spokes and fellies from her wheel,</l>
+                                                <l>Break all the spokes and 
+                                                  <app>
+                                                    <lem>fellies</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Fallies</rdg>
+                                                  </app>
+                                                   from her wheel,</l>
                                                 <l>And bowl the round nave down the hill of heaven</l>
                                                 <l>As low as to the fiends!</l>
                                               </sp>
@@ -3018,8 +3192,16 @@
                                               
                                               
                                               <sp who="#firstplayer" xml:lang="eng" xml:id="xjVzekVoU9_eng" corresp="#xjVzekVoU9_spa">
-                                                <speaker>Player</speaker>
-                                                <l>But who, ah, woe, had seen the  
+                                                <speaker><app>
+                                                    <lem>Player</lem>
+                                                    <rdg wit="#F1" type="variation-substance">1 Player</rdg>
+                                                  </app></speaker>
+                                                <l>But who, 
+                                                  <app>
+                                                    <lem>ah, woe,</lem>
+                                                    <rdg wit="#F1" type="variation-substance">O who</rdg>
+                                                  </app>
+                                                   had seen the  
                                                   <app>
                                                     <lem>mobled</lem>
                                                     <rdg wit="#F1" type="variation-substance">inobled</rdg>
@@ -3069,17 +3251,40 @@
                                               
                                               
                                               <sp who="#firstplayer" xml:lang="eng" xml:id="Wf9DjEYiXI_eng" corresp="#Wf9DjEYiXI_spa">
-                                                <speaker>Player</speaker>
-                                                <l>Run barefoot up and down, threat'ning the flames</l>
-                                                <l>With bisson rheum, a clout upon that head</l>
+                                                <speaker><app>
+                                                    <lem>Player</lem>
+                                                    <rdg wit="#F1" type="variation-substance">1 Player</rdg>
+                                                  </app></speaker>
+                                                <l>Run barefoot up and down, threat'ning the flames
+                                                  <app>
+                                                    <lem>flames</lem>
+                                                    <rdg wit="#F1" type="variation-substance">flame</rdg>
+                                                  </app>
+                                                </l>
+                                                <l>With bisson rheum, a clout upon 
+                                                  <app>
+                                                    <lem>upon</lem>
+                                                    <rdg wit="#F1" type="variation-substance">about</rdg>
+                                                  </app>
+                                                  that head</l>
                                                 <l>Where late the diadem stood, and, for a robe,</l>
                                                 <l>About her lank and all-o'erteemèd loins</l>
-                                                <l>A blanket in the alarm of fear caught up--</l>
+                                                <l>A blanket in 
+                                                  <app>
+                                                    <lem>the alarm</lem>
+                                                    <rdg wit="#F1" type="variation-substance">th'Alarum</rdg>
+                                                  </app>
+                                                   of fear caught up--</l>
                                                 <l>Who this had seen, with tongue in venom steeped</l>
                                                 <l>'Gainst Fortune's state would treason have pronounced;</l>
                                                 <l>But if the gods themselves did see her then,</l>
                                                 <l>When she saw Pyrrhus make malicious sport</l>
-                                                <l>In mincing with his sword her husband limbs,</l>
+                                                <l>In mincing with his sword her 
+                                                  <app>
+                                                    <lem>husband limbs</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Husbands limbes</rdg>
+                                                  </app>
+                                                  ,</l>
                                                 <l>The instant burst of clamor that she made,</l>
                                                 <l>Unless things mortal move them not at all,</l>
                                                 <l>Would have made milch the burning eyes of heaven</l>
@@ -3130,8 +3335,22 @@
                                                     <lem> of this</lem>
                                                     <rdg wit="#F1" type="variation-absent"/>
                                                   </app>
-                                                   soon.</p> <stage>To Polonius</stage> <p>Good my lord, will you see the players well bestowed? Do you hear, let them be well used, for they are the abstract and brief chronicles of the time. 
-                                                    After your death you were better have a bad epitaph than their ill report while you live.</p>
+                                                   soon.</p> <stage>To Polonius</stage> <p>Good my lord, will you see the players well bestowed? Do 
+                                                    <app>
+                                                    <lem>you</lem>
+                                                    <rdg wit="#F1" type="variation-substance">ye</rdg>
+                                                  </app>
+                                                   hear, let them be well used, for they are the 
+                                                   <app>
+                                                    <lem>abstract</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Abstracts</rdg>
+                                                  </app> and brief chronicles of the time. 
+                                                    After your death you were better have a bad epitaph than their ill report while you 
+                                                    <app>
+                                                    <lem>live</lem>
+                                                    <rdg wit="#F1" type="variation-substance">lived</rdg>
+                                                  </app>
+                                                  .</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="T4MULrWRCy_spa" corresp="#T4MULrWRCy_eng">
@@ -3155,7 +3374,21 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="Xq5oxAPGJ9_eng" corresp="#Xq5oxAPGJ9_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <l>God's bodkin, man, much better. Use every man after his desert and who shall scape whipping? Use them after your own honor and dignity; 
+                                                <l>God's 
+                                                  <app>
+                                                    <lem>bodkin</lem>
+                                                    <rdg wit="#F1" type="variation-substance">bodykins</rdg>
+                                                  </app>
+                                                  , man, much
+                                                  <app>
+                                                    <lem> much</lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app>
+                                                   better. Use every man after his desert and who 
+                                                   <app>
+                                                    <lem>shall</lem>
+                                                    <rdg wit="#F1" type="variation-substance">should</rdg>
+                                                  </app> scape whipping? Use them after your own honor and dignity; 
                                                   the less they deserve, the more merit is in your bounty. Take them in.</l>
                                               </sp>
                                               
@@ -3204,8 +3437,20 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="SkZkzyhoBq_eng" corresp="#SkZkzyhoBq_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <p>We'll ha't tomorrow night. You could for need study a speech of some dozen lines or sixteen lines, 
-                                                  which I would set down and insert in't, could you not?</p>
+                                                <p>We'll ha't tomorrow night. You could for 
+                                                  <app>
+                                                    <lem n="for" />
+                                                    <rdg wit="#F1" type="variation-present">a</rdg>
+                                                  </app>need study a speech of some dozen 
+                                                  <app>
+                                                    <lem> lines</lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app> or sixteen lines, 
+                                                  which I would set down and insert in't, could 
+                                                  <app>
+                                                    <lem>you</lem>
+                                                    <rdg wit="#F1" type="variation-substance">ye</rdg>
+                                                  </app> not?</p>
                                               </sp>
                                               
                                               <sp who="#hamlet" xml:lang="spa" xml:id="SkZkzyhoBq_spa" corresp="#SkZkzyhoBq_eng">
@@ -3273,13 +3518,34 @@
                                               
                                               <sp who="#hamlet" xml:lang="eng" xml:id="ggWrAoJThg_eng" corresp="#ggWrAoJThg_spa">
                                                 <speaker>Hamlet</speaker>
-                                                <l>Ay, so, God buy to you.--Now I am alone.</l>
+                                                <l>Ay, so, God buy
+                                                  <app>
+                                                    <lem>buy to you</lem>
+                                                    <rdg wit="#F1" type="variation-substance">buy'ye</rdg>
+                                                  </app>.--Now I am alone.</l>
                                                 <l>Oh, what a rogue and peasant slave am I!</l>
                                                 <l>Is it not monstrous that this player here,</l>
                                                 <l>But in a fiction, in a dream of passion,</l>
-                                                <l>Could force his soul so to his own conceit</l>
-                                                <l>That from her working all the visage wanned,</l>
-                                                <l>Tears in his eyes, distraction in his aspect,</l>
+                                                <l>Could force his soul so to his own
+                                                  <app>
+                                                    <lem>own</lem>
+                                                    <rdg wit="#F1" type="variation-substance">whole</rdg>
+                                                  </app>
+                                                   conceit</l>
+                                                <l>That from her working all the
+                                                  <app>
+                                                    <lem>the</lem>
+                                                    <rdg wit="#F1" type="variation-substance">his</rdg>
+                                                  </app> visage 
+                                                  <app>
+                                                    <lem>wanned</lem>
+                                                    <rdg wit="#F1" type="variation-substance">warm'd</rdg>
+                                                  </app>,</l>
+                                                <l>Tears in his eyes, distraction 
+                                                  <app>
+                                                    <lem>in his aspect</lem>
+                                                    <rdg wit="#F1" type="variation-substance">in's Aspect</rdg>
+                                                  </app>,</l>
                                                 <l>A broken voice, an<supplied>d</supplied> his whole function suiting</l>
                                                 <l>With forms to his conceit, and all for nothing,</l>
                                                 <l>For Hecuba.</l>
@@ -3299,7 +3565,11 @@
                                                 <l>And cleave the general ear with horrid speech,</l>
                                                 <l>Make mad the guilty, and appal the free,</l>
                                                 <l>Confound the ignorant, and amaze indeed</l>
-                                                <l>The very faculties of eyes and ears. Yet I,</l>
+                                                <l>The very 
+                                                  <app>
+                                                    <lem>faculties</lem>
+                                                    <rdg wit="#F1" type="variation-substance">faculty</rdg>
+                                                  </app> of eyes and ears. Yet I,</l>
                                                 <l>A dull and muddy-mettled rascal, peak</l>
                                                 <l>Like John-a-dreams, unpregnant of my cause,</l>
                                                 <l>And can say nothing; no, not for a king</l>
@@ -3317,8 +3587,17 @@
                                                    I should take it; for it cannot be</l>
                                                 <l>But I am pigeon-livered, and lack gall</l>
                                                 <l>To make oppression bitter, or ere this</l>
-                                                <l>I should ha' fatted all the region kites</l>
-                                                <l>With this slave's offal. Bloody, bawdy villain!</l>
+                                                <l>I should 
+                                                  <app>
+                                                    <lem>ha'</lem>
+                                                    <rdg wit="#F1" type="variation-substance">haue</rdg>
+                                                  </app>
+                                                   fatted all the region kites</l>
+                                                <l>With this slave's offal. 
+                                                  <app>
+                                                    <lem>Bloody</lem>
+                                                    <rdg wit="#F1" type="variation-substance">bouldy</rdg>
+                                                  </app>, bawdy villain!</l>
                                                 <l>Remorseless, treacherous, lecherous, kindless villain!
                                                   <app>
                                                     <lem n="villain!" />
@@ -3329,12 +3608,32 @@
                                                   <app>
                                                     <lem>Why</lem>
                                                     <rdg wit="#F1" type="variation-substance">Who</rdg>
-                                                  </app>what an ass am I! This is most brave,</l>
-                                                <l>That I, the son of a dear murderèd,</l>
+                                                  </app>what an ass am I! 
+                                                  <app>
+                                                    <lem n="me," />
+                                                    <rdg wit="#F1" type="variation-present">I sure,</rdg>
+                                                  </app>This is most brave,</l>
+                                                <l>That I, the son of a
+                                                  <app>
+                                                    <lem>a</lem>
+                                                    <rdg wit="#F1" type="variation-substance">the</rdg>
+                                                  </app> dear murderèd,</l>
                                                 <l>Prompted to my revenge by heaven and hell,</l>
                                                 <l>Must like a whore unpack my heart with words,</l>
-                                                <l>And fall a-cursing like a very drab, a stallion. Fie upon't, foh!</l>
-                                                <l>About, my brains! Hum, I have heard</l>
+                                                <l>And fall a-cursing like a very drab, a 
+                                                  <app>
+                                                    <lem>stallion</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Scullion</rdg>
+                                                  </app>. Fie upon't, foh!</l>
+                                                <l>About, my 
+                                                  <app>
+                                                    <lem>brains</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Braine</rdg>
+                                                  </app>! Hum
+                                                  <app>
+                                                    <lem> Hum</lem>
+                                                    <rdg wit="#F1" type="variation-absent"/>
+                                                  </app>, I have heard</l>
                                                 <l>That guilty creatures sitting at a play</l>
                                                 <l>Have by the very cunning of the scene</l>
                                                 <l>Been struck so to the soul that presently</l>
@@ -3350,12 +3649,25 @@
                                                   </app>
                                                   </l>
                                                 <l>I know my course. The spirit that I have seen</l>
-                                                <l>May be a de'il, and the de'il hath power</l>
+                                                <l>May be a
+                                                  <app>
+                                                    <lem>a de'il</lem>
+                                                    <rdg wit="#F1" type="variation-substance">the Diuell</rdg>
+                                                  </app>
+                                                  , and the de'il
+                                                  <app>
+                                                    <lem>de'il</lem>
+                                                    <rdg wit="#F1" type="variation-substance">Diuell</rdg>
+                                                  </app> hath power</l>
                                                 <l>T'assume a pleasing shape; yea, and perhaps,</l>
                                                 <l>Out of my weakness and my melancholy,</l>
                                                 <l>As he is very potent with such spirits,</l>
                                                 <l>Abuses me to damn me. I'll have grounds</l>
-                                                <l>More relative than this. The play's the thing</l>
+                                                <l>More relative than
+                                                  <app>
+                                                    <lem>than</lem>
+                                                    <rdg wit="#F1" type="variation-substance">then</rdg>
+                                                  </app> this. The play's the thing</l>
                                                 <l>Wherein I'll catch the conscience of the King.</l>
                                               </sp>
                                               
