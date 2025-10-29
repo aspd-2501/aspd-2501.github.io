@@ -60,7 +60,7 @@ tei-sp[lang="eng"] {
 
 tei-sp[lang="spa"] tei-l{
     /*display: none;*/
-    color: darkred;
+    color: darkorchid;
 }
 
 
@@ -191,3 +191,49 @@ tei-castitem:has(tei-roledesc:empty) {
 }
 tei-castitem:not(:has(tei-roledesc))::after,
 tei-castitem:has(tei-roledesc:empty)::after { content: none; }
+
+
+
+
+
+
+/* Estilos adicionales para colación */
+tei-lem {
+    display: inline;
+    font-style: italic;
+    color: darkgreen;
+}
+tei-lem::after {
+    content: "[" attr(wit) "]";
+    vertical-align: sub;
+    font-size: 5pt;
+}
+
+tei-rdg {
+    display: inline;
+    font-style: italic;
+    color: darkred;
+}
+tei-rdg::after {
+    content: "[" attr(wit) "]";
+    vertical-align: sub;
+    font-size: 5pt;
+}
+
+tei-rdg[type="variation-absent"]::after {
+    content: "\2727 [" attr(wit) "]";
+    vertical-align: sub;
+    font-size: 7pt;
+}
+
+tei-rdg[type="variation-present"]::before {
+    content: "\2038";
+    vertical-align: super;
+    font-size: 9pt;
+}
+
+tei-rdg[type="variation-present"]::after {
+    content: "[" attr(wit) "]";
+    vertical-align: sub;
+    font-size: 7pt;
+}
