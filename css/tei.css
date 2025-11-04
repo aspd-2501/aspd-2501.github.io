@@ -1,6 +1,7 @@
 body {
     font-family: Lora, 'Times New Roman', Times, serif;
     margin-left: 1cm;
+    font-size: 18pt;
 }
 
 tei-teiheader {
@@ -38,7 +39,7 @@ tei-stage[lang="eng"] {
 }
 tei-stage[lang="spa"] {
     margin-left: 1cm;
-    color: crimson;
+    color: darkorchid;
 }
 
 tei-speaker {
@@ -91,7 +92,7 @@ tei-castitem {
     grid-template-columns: 1.1em max-content 1fr max-content;   
     list-style-position: outside;
     margin-bottom: 0.3cm;
-    font-size: 14px;
+    font-size: 18px;
     align-items: baseline;
     margin-bottom: 0.3cm;
     text-decoration: none;
@@ -101,7 +102,7 @@ tei-castitem {
 tei-castitem::before {
   content: "❋";
   grid-column: 1;
-  font-size: 1.1em;
+  font-size: 1.2em;
   color: steelblue;
   opacity: .9;
   line-height: 1;
@@ -113,7 +114,7 @@ tei-role {
     font-weight: bold;
     color: steelblue;
     font-variant: small-caps;
-    font-size: 16px;
+    font-size: 18px;
     margin-left: 0.25cm;
     float: left;
 }
@@ -198,26 +199,37 @@ tei-castitem:has(tei-roledesc:empty)::after { content: none; }
 
 
 /* Estilos adicionales para colación */
+
+
 tei-lem {
     display: inline;
     font-style: italic;
-    color: darkgreen;
+    font-weight: bold;
+    color: forestgreen;
+    
+    
 }
 tei-lem::after {
     content: "[" attr(wit) "]";
     vertical-align: sub;
-    font-size: 5pt;
+    font-size: 8pt;
 }
 
 tei-rdg {
     display: inline;
     font-style: italic;
-    color: darkred;
+    color: limegreen;
+    font-size: 12pt;
+
+    background-color: rgba(50, 205, 50, 0.1);
+    border-radius: 3px;
+    padding: 0.1em 0.3em;
+    text-decoration: underline limegreen;
 }
 tei-rdg::after {
     content: "[" attr(wit) "]";
     vertical-align: sub;
-    font-size: 5pt;
+    font-size: 8pt;
 }
 
 tei-rdg[type="variation-absent"]::after {

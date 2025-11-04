@@ -20,12 +20,14 @@
           de William Shakespeare
           en la siguiente dirección:
           <ref>https://internetshakespeare.uvic.ca/doc/Ham_Q2/scene/2.2/index.html</ref>
+          <br />
         </p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <front>
+    <br />
       <div type="DramatisPersonae">
         <head>The Persons Represented</head>
         <castList>
