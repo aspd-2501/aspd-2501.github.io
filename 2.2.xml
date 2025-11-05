@@ -20,14 +20,12 @@
           de William Shakespeare
           en la siguiente dirección:
           <ref>https://internetshakespeare.uvic.ca/doc/Ham_Q2/scene/2.2/index.html</ref>
-          <br />
         </p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <front>
-    <br />
       <div type="DramatisPersonae">
         <head>The Persons Represented</head>
         <castList>
@@ -209,7 +207,11 @@
               <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
               <rdg wit="#F1" type="variation-substance">Rosincrane</rdg>
             </app> 
-            and Guildenstern
+            and
+            <app>
+              <lem wit="#Q2">Guildenstern</lem>
+              <rdg wit="#Q1" type="variation-substance">Gilderstone</rdg>
+            </app>
             <app>
               <lem n="Guildenstern" />
               <rdg wit="#F1" type="variation-present">Cum aliys</rdg>
@@ -223,10 +225,11 @@
           
           <sp who="#claudius" xml:lang="eng" xml:id="aXxdKgqSxz_eng" corresp="#aXxdKgqSxz_spa">
             <speaker>King</speaker>
+            <app>
+            <lem wit="#Q2 #F1">
             <l>Welcome, dear 
               <app>
                 <lem wit="#Q2">Rosencrantz</lem>
-                <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
                 <rdg wit="#F1" type="variation-substance">Rosincrane</rdg>
               </app> 
               and Guildenstern.</l>
@@ -312,6 +315,18 @@
                           <rdg wit="#F1" type="variation-absent"/>
                         </app>
                         <l>That, opened, lies within our remedy.</l>
+                        </lem>
+                        <rdg wit="Q1" type="variation-substance">
+                          <l>Right noble friends, that our deere cosin Hamlet</l>
+                          <l>Hath lost the very heart of all his sence,</l>
+                          <l>It is most right, and we most sory for him:</l>
+                          <l>Therefore we doe desire, euen as you tender</l>
+                          <l>Our care to him, and our great loue to you,</l>
+                          <l>That you will labour but to wring from him</l>
+                          <l>The cause and ground of his distemperancie.</l>
+                          <l>Doe this, the king of Denmarke shal be thankefull.</l>
+                        </rdg>
+                      </app>
                       </sp>
                       
                       <sp who="#claudius" xml:lang="spa" xml:id="aXxdKgqSxz_spa" corresp="#aXxdKgqSxz_eng">
@@ -338,6 +353,8 @@
                       
                       <sp who="#gertrude" xml:lang="eng" xml:id="hoW4p1WPLF_eng" corresp="#hoW4p1WPLF_spa">
                         <speaker>Queen</speaker>
+                        <app>
+                         <lem wit="#Q2 #F1">
                         <l>Good gentlemen, he hath much talked of you,</l>
                         <l>And sure I am two men there  
                           <app>
@@ -351,6 +368,9 @@
                           <l>For the supply and profit of our hope,</l>
                           <l>Your visitation shall receive such thanks</l>
                           <l>As fits a king's remembrance.</l>
+                          </lem>
+                          <rdg wit="Q1" type="variation-absent"/>
+                          </app>
                         </sp>
                         
                         <sp who="#gertrude" xml:lang="spa" xml:id="hoW4p1WPLF_spa" corresp="#hoW4p1WPLF_eng">
@@ -368,10 +388,20 @@
                         
                         <sp who="#rosencrantz" xml:lang="eng" xml:id="nc5E5VawoK_eng" corresp="#nc5E5VawoK_spa">
                           <speaker>Rosencrantz</speaker>
+                          <app>
+                            <lem wit="#Q2 #F1">
                           <l> Both your majesties</l>
                           <l>Might, by the sovereign power you have of us,</l>
                           <l>Put your dread pleasures more into command</l>
                           <l>Than to entreaty.</l>
+                            </lem>
+                            <rdg wit="Q1" type="variation-substance">
+                              <l>My Lord, whatsoeuer lies within our power</l>
+                              <l>Your maiestie may more commaund in wordes</l>
+                              <l>Then vse perswasions to your liege men, bound</l>
+                              <l>By loue, by duetie, and obedience.</l>
+                              </rdg>
+                          </app>
                         </sp>
                         
                         <sp who="#rosencrantz" xml:lang="spa" xml:id="nc5E5VawoK_spa" corresp="#nc5E5VawoK_eng">
@@ -386,6 +416,8 @@
                         
                         <sp who="#guildenstern" xml:lang="eng" xml:id="wcIaONFMil_eng" corresp="#wcIaONFMil_spa">
                           <speaker>Guildenstern</speaker>
+                          <app>
+                           <lem wit="#Q2 #F1"> 
                           <l>
                             <app>
                               <lem wit="#Q2">But</lem>
@@ -400,6 +432,15 @@
                               </app>
                               freely at your feet</l>
                               <l>To be commanded.</l>
+                              </lem>
+                              <rdg wit="Q1" type="variation-substance">
+                                <l>What we may doe for both your Maiesties</l>
+                                <l>To know the griefe troubles the Prince your sonne,</l>
+                                <l>We will indeuour all the best we may,</l>
+                                <l>So in all duetie doe we take our leaue.</l>
+
+                              </rdg>
+                              </app>
                             </sp>
                             
                             <sp who="#guildenstern" xml:lang="spa" xml:id="wcIaONFMil_spa" corresp="#wcIaONFMil_eng">
@@ -417,10 +458,15 @@
                               <l>Thanks, 
                                 <app>
                                   <lem wit="#Q2">Rosencrantz</lem>
-                                  <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
+                                  <rdg wit="#Q1" type="variation-substance">Gilderstone</rdg>
                                   <rdg wit="#F1" type="variation-substance">Rosincrane</rdg>
                                 </app>
-                                , and gentle Guildenstern.</l>
+                                , and gentle 
+                                <app>
+                                  <lem wit="Q2">Guildenstern</lem>
+                                  <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
+                                  </app>
+                                  .</l>
                               </sp>
                               
                               <sp who="#claudius" xml:lang="spa" xml:id="mpFU7nEIc6_spa" corresp="#mpFU7nEIc6_eng">
@@ -432,10 +478,15 @@
                               
                               <sp who="#gertrude" xml:lang="eng" xml:id="RYo3OzNvl2_eng" corresp="#RYo3OzNvl2_spa">
                                 <speaker>Queen</speaker>
-                                <l>Thanks, Guildenstern, and gentle 
+                                <l>Thanks, 
+                                  <app>
+                                    <lem wit="Q2">Guildenstern</lem>
+                                    <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
+                                    </app>
+                                    , and gentle 
                                   <app>
                                     <lem wit="#Q2">Rosencrantz</lem>
-                                    <rdg wit="#Q1" type="variation-substance">Rossencraft</rdg>
+                                    <rdg wit="#Q1" type="variation-substance">Gilderstone</rdg>
                                     <rdg wit="#F1" type="variation-substance">Rosincrane</rdg>
                                   </app>
                                   .</l>
@@ -471,11 +522,16 @@
                                     
                                     <sp who="#guildenstern" xml:lang="eng" xml:id="IdoGUaxFL4_eng" corresp="#IdoGUaxFL4_spa">
                                       <speaker>Guildenstern</speaker>
+                                      <app>
+                                        <lem wit="#Q2 #F1">
                                       <l>Heavens make our presence and our practices</l>
                                       <l>Pleasant and helpful to him!</l>
                                       <app>
                                         <lem n="him!" />
                                         <rdg wit="#F1" type="variation-present">Exit</rdg>
+                                      </app>
+                                      </lem>
+                                      <rdg wit="Q1" type="variation-absent"/>
                                       </app>
                                     </sp>
                                     
@@ -489,12 +545,17 @@
                                     
                                     <sp who="#gertrude" xml:lang="eng" xml:id="BrNkIrqtp8_eng" corresp="#BrNkIrqtp8_spa">
                                       <speaker>Queen</speaker>
+                                      <app>
+                                        <lem wit="#Q2 #F1">
                                       <l> 
                                         <app>
                                           <lem wit="#Q2">Ay,</lem>
                                           <rdg wit="#F1" type="variation-absent"/>
                                         </app>
                                         Amen.</l>
+                                      </lem>
+                                      <rdg wit="Q1" type="variation-absent"/>
+                                      </app>
                                       </sp>
                                       
                                       <sp who="#gertrude" xml:lang="spa" xml:id="BrNkIrqtp8_spa" corresp="#BrNkIrqtp8_eng">
@@ -508,6 +569,7 @@
                                         <app>
                                           <lem wit="#Q2">Exeunt Rosencrantz and Guildenstern <supplied>and other Courtiers</supplied>.</lem>
                                           <rdg wit="#F1" type="variation-absent"/>
+                                          <rdg wit="Q1" type="variation-absent"/>
                                         </app>
                                       </stage>
                                       
@@ -518,7 +580,11 @@
                                       
                                       
                                       <stage xml:lang="eng" xml:id="doZYx8lPnx_eng" corresp="#doZYx8lPnx_spa">
-                                        Enter Polonius.
+                                        <app>
+                                          <lem wit="#Q2 #F1"> Enter Polonius.
+                                            </lem>
+                                            <rdg wit="Q1" type="variation-substance"> Enter Corambis and Ofelia.</rdg>
+                                          </app>
                                       </stage>
                                       
                                       <stage xml:lang="spa" xml:id="doZYx8lPnx_spa" corresp="#doZYx8lPnx_eng">
@@ -529,8 +595,15 @@
                                       
                                       <sp who="#polonius" xml:lang="eng" xml:id="SysfYmd1uM_eng" corresp="#SysfYmd1uM_spa">
                                         <speaker>Polonius</speaker>
+                                        <app>
+                                          <lem wit="#Q2 #F1">
                                         <l>Th'ambassadors from Norway, my good lord,</l>
                                         <l>Are joyfully returned.</l>
+                                        </lem>
+                                        <rdg wit="Q1"> 
+                                          <l>My Lord, the Ambassadors are ioyfully</l>
+                                          <l>Return'd from Norway.</l></rdg>
+                                        </app>
                                       </sp>
                                       
                                       <sp who="#polonius" xml:lang="spa" xml:id="SysfYmd1uM_spa" corresp="#SysfYmd1uM_eng">
@@ -562,7 +635,7 @@
                                         <speaker>Polonius</speaker>
                                         <l>Have I, my lord?
                                           <app>
-                                          <lem wit="#Q2"> I </lem>
+                                          <lem wit="#Q2 #Q1"> I </lem>
                                           <rdg wit="#F1" type="variation-absent"/>
                                         </app> 
                                         assure 
@@ -570,23 +643,61 @@
                                         <lem n="assure" />
                                         <rdg wit="#F1" type="variation-present">you,</rdg>
                                       </app>
-                                        my good liege,</l>
-                                        <l>I hold my duty as I hold my soul,</l>
+                                      <app>
+                                        <lem wit="#Q2">
+                                        my good liege
+                                      </lem>
+                                    <rdg wit="Q1">
+                                      your grace
+                                    </rdg>
+                                  </app>
+                                    ,</l>
+                                        <l>I hold my duty as I hold my 
+                                          <app>
+                                            <lem wit="#Q2 #F1">soul</lem>
+                                          <rdg wit="Q1" type="variation-substance">life</rdg>
+                                            </app>,</l>
                                         <l>Both to my God
                                           <app>
-                                        <lem wit="#Q2">and</lem>
+                                        <lem wit="#Q2 #Q1">and</lem>
                                         <rdg wit="#F1" type="variation-substance">one</rdg>
                                       </app>
-                                       to my gracious king;</l>
-                                        <l>And I do think--or else this brain of mine</l>
-                                        <l>Hunts not the trail of policy so sure</l>
+                                       to my 
+                                       <app>
+                                        <lem wit="#Q2">gracious</lem>
+                                        <rdg wit="#Q1" type="variation-substance">soueraigne</rdg>
+                                      </app> king;</l>
+                                        <l>And I 
+                                          <app>
+                                        <lem wit="#Q2">do think</lem>
+                                        <rdg wit="#Q1" type="variation-substance">beleeve</rdg>
+                                      </app>
+                                      --or else this brain of mine</l>
+                                        <l>Hunts not the trail of policy so 
+                                          <app>
+                                        <lem wit="#Q2 #Q1">sure</lem>
+                                        <rdg wit="#Q1" type="variation-substance">well</rdg>
+                                      </app></l>
                                         <l>As 
                                           <app>
                                         <lem wit="#Q2">it hath</lem>
                                         <rdg wit="#F1" type="variation-substance">I have</rdg>
                                       </app>
-                                       used to do--that I have found</l>
-                                        <l>The very cause of Hamlet's lunacy.</l>
+                                       <app>
+                                        <lem wit="#Q2">used</lem>
+                                        <rdg wit="#Q1" type="variation-substance">wont</rdg>
+                                      </app>
+                                       to do-
+                                       <app>
+                                        <lem wit="#Q2">that</lem>
+                                        <rdg wit="#Q1" type="variation-substance">but</rdg>
+                                      </app> I have found</l>
+                                        <l>The very 
+                                          <app>
+                                        <lem wit="#Q2">cause</lem>
+                                        <rdg wit="#Q1" type="variation-substance">depth</rdg>
+                                      </app>
+                                       of Hamlet's lunacy.</l>
                                       </sp>
                                       
                                       <sp who="#polonius" xml:lang="spa" xml:id="W2VeCdL3UZ_spa" corresp="#W2VeCdL3UZ_eng">
@@ -604,11 +715,16 @@
                                       
                                       <sp who="#claudius" xml:lang="eng" xml:id="AyjvCSj12e_eng" corresp="#AyjvCSj12e_spa">
                                         <speaker>King</speaker>
+                                        <app>
+                                          <lem wit="#Q2 #F1">
                                         <l>Oh, speak of that! That 
                                           <app>
                                           <lem wit="#Q2">do I</lem>
                                           <rdg wit="#F1" type="variation-inversion">I do</rdg>
                                         </app>long to hear.</l>
+                                        </lem>
+                                        <rdg wit="Q1" type="variation-absent"/>
+                                        </app>
                                       </sp>
                                       
                                       <sp who="#claudius" xml:lang="spa" xml:id="AyjvCSj12e_spa" corresp="#AyjvCSj12e_eng">
@@ -620,6 +736,8 @@
                                       
                                       <sp who="#polonius" xml:lang="eng" xml:id="DgHO07LAds_eng" corresp="#DgHO07LAds_spa">
                                         <speaker>Polonius</speaker>
+                                        <app>
+                                          <lem wit="#Q2 #F1">
                                         <l>Give first admittance to th'ambassadors.</l>
                                         <l>My news shall be the  
                                           <app>
@@ -627,6 +745,9 @@
                                             <rdg wit="#F1" type="variation-substance">News</rdg>
                                           </app>
                                           to that great feast.</l>
+                                      </lem>
+                                      <rdg wit="Q1" type="variation-absent"/>
+                                      </app>
                                       </sp>
                                       
                                       <sp who="#polonius" xml:lang="spa" xml:id="DgHO07LAds_spa" corresp="#DgHO07LAds_eng">
@@ -639,6 +760,8 @@
                                       
                                       <sp who="#claudius" xml:lang="eng" xml:id="OeywQ7geCr_eng" corresp="#OeywQ7geCr_spa">
                                         <speaker>King</speaker>
+                                        <app>
+                                          <lem wit="#Q2 #F1">
                                         <l>Thyself do grace to them, and bring them in.</l>
                                         <stage>Polonius goes to bring in the ambassadors.</stage>
                                         <l>He tells me, my 
@@ -651,6 +774,9 @@
                                           <rdg wit="#F1" type="variation-present">that</rdg>
                                           </app>he hath found</l>
                                         <l>The head and source of all your son's distemper.</l>
+                                      </lem>
+                                      <rdg wit="Q1" type="variation-absent"/>  
+                                      </app>
                                       </sp>
                                       
                                       <sp who="#claudius" xml:lang="spa" xml:id="OeywQ7geCr_spa" corresp="#OeywQ7geCr_eng">
@@ -665,6 +791,8 @@
                                       
                                       <sp who="#gertrude" xml:lang="eng" xml:id="z6sTrHgm2r_eng" corresp="#z6sTrHgm2r_spa">
                                         <speaker>Queen</speaker>
+                                        <app>
+                                          <lem wit="#Q2 #F1">
                                         <l>I doubt it is no other but the main:</l>
                                         <l>His father's death, and our 
                                           <app>
@@ -672,6 +800,11 @@
                                             <rdg wit="#F1" type="variation-present">o're</rdg>
                                           </app>
                                       hasty marriage.</l>
+                                      </lem>
+                                      <rdg wit="Q1" type="variation-substance">
+                                        <l>God graunt he hath.</l>
+                                        </rdg>
+                                      </app>
                                       </sp>
                                       
                                       <sp who="#gertrude" xml:lang="spa" xml:id="z6sTrHgm2r_spa" corresp="#z6sTrHgm2r_eng">
@@ -687,6 +820,7 @@
                                         <app>
                                           <lem wit="#Q2">Ambassadors <supplied>Voltemand and Cornelius, ushered in by Polonius</supplied>.</lem>
                                           <rdg wit="#F1" type="variation-substance">Polonius, Voltumand and Cornelius.</rdg>
+                                          <rdg wit="Q1" type="variation-substance"> the Ambassadors.</rdg>
                                         </app>
                                       </stage>
                                         
@@ -697,15 +831,24 @@
                                           
                                           <sp who="#claudius" xml:lang="eng" xml:id="r8zTGxG0nX_eng" corresp="#r8zTGxG0nX_spa">
                                             <speaker>King</speaker>
+                                            <app>
+                                              <lem wit="#Q2 #F1">
                                             <l>Well, we shall sift him.--Welcome,
                                               <app>
                                               <lem wit="#Q2">my</lem>
                                               <rdg wit="#F1" type="variation-absent"/>
                                             </app> good friends.</l>
-                                            <l>Say, 
+                                            </lem>
+                                            <rdg wit="Q1" type="variation-absent"/>
+                                            </app>
+                                            <l><app>
+                                              <lem wit="#Q2 #F1">Say,</lem>
+                                            <rdg wit="#Q1" type="variation-substance">Now</rdg>
+                                      </app> 
                                               <app>
                                               <lem wit="#Q2">Voltemand</lem>
                                               <rdg wit="#F1" type="variation-substance">Voltumand</rdg>
+                                              <rdg wit="Q1" type="variation-substance">Voltemar</rdg>
                                               </app>
                                             , what from our brother Norway?</l>
                                           </sp>
@@ -723,17 +866,28 @@
                                               <app>
                                               <lem wit="#Q2">Voltemand</lem>
                                               <rdg wit="#F1" type="variation-substance">Voltumand</rdg>
+                                              <rdg wit="Q1" type="variation-substance">Voltemar</rdg>
                                               </app>
                                             </speaker>
                                             <l>Most fair return of greetings and desires.</l>
-                                            <l>Upon our first, he sent out to suppress</l>
+                                            <l>Upon our first, he sent out
+                                              <app>
+                                        <lem wit="#Q2 #F1">out</lem>
+                                        <rdg wit="#Q1" type="variation-substance">forth</rdg>
+                                      </app> 
+                                      to suppress</l>
                                             <l>His nephew's levies, which to him appeared</l>
                                             <l>To be a preparation 'gainst the Polack,</l>
                                             <l>But, better looked into, he truly found</l>
                                             <l>It was against your highness; whereat grieved</l>
                                             <l>That so his sickness, age, and impotence</l>
                                             <l>Was falsely borne in hand, sends out arrests</l>
-                                            <l>On Fortinbras, which he in brief obeys,</l>
+                                            <l>On 
+                                              <app>
+                                        <lem wit="#Q2 #F1">Fortinbras</lem>
+                                        <rdg wit="#Q1" type="variation-substance">Fortembrasse</rdg>
+                                      </app>
+                                      , which he in brief obeys,</l>
                                             <l>Receives rebuke from Norway, and, in fine,</l>
                                             <l>Makes vow before his uncle never more</l>
                                             <l>To give th'assay of arms against your majesty.</l>
@@ -741,7 +895,7 @@
                                             <l>Gives him  
                                               <app>
                                               <lem wit="#Q2">threescore</lem>
-                                              <rdg wit="#F1" type="variation-substance">three</rdg>
+                                              <rdg wit="#F1 #Q1" type="variation-substance">three</rdg>
                                               </app>
                                               thousand crowns in annual fee</l>
                                             <l>And his commission to employ those soldiers</l>
@@ -749,14 +903,19 @@
                                             <l>With an
                                               <app>
                                                 <lem wit="#Q2">entreaty</lem>
-                                                <rdg wit="#F1" type="variation-substance">intreaty</rdg>
+                                                <rdg wit="#F1 #Q1" type="variation-substance">intreaty</rdg>
                                               </app> herein further shown</l>
                                             <l><supplied>Giving a letter to the King</supplied></l>
-                                            <l>That it might please you to give quiet pass</l>
+                                            <l>That it 
+                                              <app>
+                                        <lem wit="#Q2 #F1">might</lem>
+                                        <rdg wit="#Q1" type="variation-substance">would</rdg>
+                                      </app> please you to give quiet pass</l>
                                             <l>Through your dominions for
                                               <app>
                                                 <lem wit="#Q2">this</lem>
                                                 <rdg wit="#F1" type="variation-substance">his</rdg>
+                                                <rdg wit="Q1" type="variation-substance">that</rdg>
                                               </app> 
                                               enterprise</l>
                                             <l>On such regards of safety and allowance</l>
@@ -794,12 +953,20 @@
                                           <sp who="#claudius" xml:lang="eng" xml:id="AAKYU1TYvd_eng" corresp="#AAKYU1TYvd_spa">
                                             <speaker>King</speaker>
                                             <l>It likes us well,</l>
+                                            <app>
+                                              <lem wit="#Q2 #F1">
                                             <l>And at our more considered time we'll read,</l>
                                             <l>Answer, and think upon this business.</l>
+                                            </lem>
+                                            <rdg wit="Q1" type="variation-substance">
+                                              <l>and at fit time and leasure</l>
+                                              <l>Weele reade and answere these his Articles,</l>
+                                            </rdg>
+                                            </app>
                                             <l>Meantime, we
                                               <app>
                                               <lem wit="#Q2">thank</lem>
-                                              <rdg wit="#F1" type="variation-substance">thanke</rdg>
+                                              <rdg wit="#F1 #Q1" type="variation-substance">thanke</rdg>
                                             </app>
                                              you for your  
                                               <app>
@@ -825,7 +992,7 @@
                                           
                                           <stage xml:lang="eng" xml:id="Nz8FVuAXGQ_eng" corresp="#Nz8FVuAXGQ_spa">
                                             <app>
-                                              <lem wit="#Q2">Exeunt</lem>
+                                              <lem wit="#Q2 #Q1">Exeunt</lem>
                                               <rdg wit="#F1" type="variation-substance">Exit</rdg>
                                             </app> 
                                             Ambassadors.
@@ -842,9 +1009,14 @@
                                             <l>This business is 
                                               <app>
                                                 <lem n="is" />
-                                                <rdg wit="#F1" type="variation-present">very</rdg>
+                                                <rdg wit="#F1 #Q1" type="variation-present">very</rdg>
                                               </app>
-                                              well ended.</l>
+                                              well 
+                                            <app>
+                                        <lem wit="#Q2 #F1">ended.</lem>
+                                        <rdg wit="#Q1" type="variation-substance">dispatched</rdg>
+                                      </app>
+                                    </l>
                                             <l>My liege and madam, to expostulate</l>
                                             <l>What majesty should be, what duty is,</l>
                                             <l>Why day is day, night night, and time is time,</l>
@@ -3743,6 +3915,10 @@
                                                   
                                                   
                                                 </div>
+                                              </div>
+                                              <div> 
+                                                <head> Reflexión Personal </head>
+                                                <p> IA...</p>
                                               </div>
                                             </body>
                                           </text>
