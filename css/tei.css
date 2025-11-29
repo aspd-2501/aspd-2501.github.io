@@ -64,6 +64,11 @@ tei-sp[lang="spa"] tei-l{
     color: darkorchid;
 }
 
+tei-sp[lang="spa"] tei-p{
+    /*display: none;*/
+    color: darkorchid;
+}
+
 
 
 /*Diseñen su archivo tei.css para darle formato a todos los elementos 
