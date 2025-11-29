@@ -5052,13 +5052,26 @@
                             </l>
                             <l>T'assume a pleasing shape; yea, and perhaps,</l>
                             <l>Out of my weakness and my melancholy,</l>
-                            <l>As he is very potent with such spirits,</l>
-                            <l>Abuses me to damn me. I'll have grounds</l>
-                            <l>More relative than
+                            <l>As he is very potent with such 
                               <app>
-                                <lem wit="#Q2">than</lem>
-                                <rdg wit="#F1" type="variation-substance">then</rdg>
-                              </app> this. The play's the thing
+                                <lem wit="#Q2 #F1">spirits</lem>
+                                <rdg wit="#Q1" type="variation-substance">men</rdg>
+                              </app>,
+                            </l>
+                            <app>
+                              <lem wit="#Q2 #F1"><l>Abuses me to damn me. I'll have grounds</l>
+                                <l>More relative than
+                                  <app>
+                                    <lem wit="#Q2">than</lem>
+                                    <rdg wit="#F1" type="variation-substance">then</rdg>
+                                  </app> this.
+                                </l>
+                              </lem>
+                              <rdg wit="#Q1" type="variation-substance">
+                                <l>Doth seeke to damne me, I will haue sounder proofes,</l>
+                              </rdg>
+                            </app> 
+                            <l>The play's the thing
                             </l>
                             <l>Wherein I'll catch the conscience of the King.</l>
                           </sp>
@@ -5163,7 +5176,9 @@
                           específicos que no entendía completamente sobre cómo implementarlos en el código y que consideraba un poco complicados.
                           También, en este módulo usé la herramienta de autocompletado de GitHub que, por ejemplo, me completaba los cierres de las etiquetas o me ayudaba a completar la asignación de 
                           IDs en español y en inglés de manera automática. Aunque a veces también tuve problemas porque, sin que yo lo quisiera, la herramienta realizaba cambios que yo no quería aplicar 
-                          y que me pareció tedioso corregir en varias ocasiones.
+                          y que me pareció tedioso corregir en varias ocasiones. Y, por último, cuando estaba configurando el repositorio de GitHub para utilizar GitHub pages me encontré con 
+                          un error que no lograba resolver, así que decidí preguntarle a ChatGPT y, afortunadamente, me ayudó a darme cuenta de que estaba cometiendo un error que había pasado por 
+                          alto completamente cuando estaba siguiendo el tutorial de la documentación de GitHub.
                           En general, considero que la mayoría de las veces que utilicé herramientas de inteligencia artificial generativa lo hice de manera responsable y consciente. Mi objetivo 
                           principal no fue delegar mi trabajo, sino utilizar estas herramientas como un apoyo para mejorar la calidad y eficiencia de lo que estaba haciendo. En cada interacción 
                           con la IA, traté de entender el razonamiento detrás de las respuestas que me ofrecían, en lugar de simplemente copiar y pegar las soluciones sin comprender por qué 
